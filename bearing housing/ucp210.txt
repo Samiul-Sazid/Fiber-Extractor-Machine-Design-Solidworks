@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-21042020-036548";"";
+"REFERENCE";"UCP210";"";
+"TraceParts.PartTitle";"Block bearings UCP210";"";
+"model";"UCP210";"";
+"shaft_dia_mm";"50";"";
+"SUPPLIER";"ASAHI SEIKO CO., LTD. ";"";
+"DESIGN";"Block bearings UCP210";"";
+"TraceParts.InstanceId";"90-21042020-0365482N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.3";"";
